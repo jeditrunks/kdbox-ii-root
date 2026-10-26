@@ -1,0 +1,10 @@
+# build scratch — never commit these
+*.cpb
+*.sqfs
+*.ius
+*.ius.sig
+*.pem
+w/
+build/
+__pycache__/
+*.pyc
