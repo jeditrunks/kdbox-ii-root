@@ -1,5 +1,11 @@
 # KD-Box II: root SSH without opening the case
 
+> **Superseded — kept as a record.** This repo is KD-Box II specific. The same approach has
+> since been generalised and validated on a second model (CK Box II 2.2.2), with an
+> independent verifier and a per-image build budget:
+> **[github.com/jeditrunks/goldshell-fw-toolkit](https://github.com/jeditrunks/goldshell-fw-toolkit)**.
+> New work belongs there; this repository is archived read-only.
+
 The Goldshell KD-Box II is a small blake2s miner built for Kadena. When KDA stopped paying,
 the stock firmware left the hardware locked to a coin nobody mines, and gave owners no way in:
 SSH is installed but killed a couple of seconds after boot, and the only interface is a web UI
